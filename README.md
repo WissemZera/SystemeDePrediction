@@ -39,7 +39,7 @@ Ce projet vise à développer un système intelligent capable de prédire les ri
 - Date de naissance  
 - Gouvernorat  
 
-### 4. Données transactionnelles (01.01.2024 → 31.03.2025)
+### 4. Données transactionnelles (01.06.2024 → 31.03.2025)
 - RIP  
 - Nombre de transactions récentes  
 - Comportement mensuel (fréquence des retraits / dépôts)  
@@ -49,8 +49,8 @@ Ce projet vise à développer un système intelligent capable de prédire les ri
 
 ## ⚙️ Technologies utilisées
 
-fix this 
-- Python 3.13.1 
+
+- Python 3.13.1
 - Pandas / NumPy  
 - Scikit-learn  
 - Visual Studio Code  
@@ -59,8 +59,7 @@ fix this
 ---
 
 ## 🚀 Objectifs
-
-- add more objectives 
+ 
 - Nettoyage, fusion et transformation des données multi-sources  
 - Entraînement de modèles de Machine Learning pour la classification (chèque payé ou rejeté)  
 - Intégration des prédictions dans Power BI via pipeline ETL  
